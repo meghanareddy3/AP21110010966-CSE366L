@@ -16,3 +16,6 @@ _Table of Contents_
 *1. Introduction to NumPy*
 
 *2. Introduction to Pandas (Series and Dataframes)*
+
+*3. Introduction to Matplotlib*
+
